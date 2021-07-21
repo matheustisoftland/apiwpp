@@ -53,6 +53,25 @@
         "status": "",
         "resposta": ""
       }
+    ],
+     
+          "jhonemophilosc": [
+     {
+        "id": 1,
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "jhonemophilosr": [
+     {
+        "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
     ]
      
 }
