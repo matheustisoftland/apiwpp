@@ -110,6 +110,25 @@
         "status": "",
         "resposta": ""
       }
-    ]     
+    ],  
+     
+      "suporteinfoqualyc": [
+     {
+        "id": 1,
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "suporteinfoqualyr": [
+     {
+        "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
+    ],     
      
 }
