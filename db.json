@@ -147,6 +147,24 @@
         "status": "",
         "resposta": ""
       }
-    ]  
+    ],
+     "midiaecoc": [
+     {
+        "id": 1,
+        "numero": "",
+        "texto": "",
+        "banner": "",
+        "avatar": ""
+      }
+    ],
+       "midiaecor": [
+     {
+        "id": 1,
+        "numero": "",
+        "campanha": "",
+        "status": "",
+        "resposta": ""
+      }
+    ]
      
 }
